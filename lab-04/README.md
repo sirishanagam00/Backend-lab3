@@ -15,13 +15,12 @@
 
 ---
 
-## Live Deployment
 
 | Field | Details |
 |---|---|
-| **Deployment Platform** | __________________ |
-| **Live Application URL** | __________________ |
-| **Deployment Status** | Not deployed yet |
+| **Deployment Platform** | Render |
+| **Live Application URL** | https://backend-lab4-dky6.onrender.com |
+| **Deployment Status** | deployed |
 
 The application will be deployed after completing local testing and verification.
 
